@@ -1,20 +1,21 @@
 # Praat 6.4.61 简体中文界面补丁
 
-非官方 Windows x64 汉化版，基于 Praat 6.4.61。汉化只替换界面显示文字；内部英文命令、对象类型、公式和脚本语法保持不变
+非官方 Windows x64 汉化版，基于 Praat 6.4.61
+汉化只替换界面显示文字；内部英文命令、对象类型、公式和脚本语法保持不变
 
 鼠标停留在已汉化的菜单、按钮、标签或选项上约 0.9 秒，可查看对应英文原文
 
 ## 下载
 
-- [Windows x64 完整包](https://github.com/f246813/praat-zh-cn/releases/download/v3.5/praat-6.4.61-zh-v3.5-windows-x64.zip)：解压后运行 `Praat_zh.exe`，不会覆盖官方原版。
-- [源码补丁包](https://github.com/f246813/praat-zh-cn/releases/download/v3.5/praat-6.4.61-zh-v3.5-source-patch.zip)：不含可执行文件或完整官方源码。
-- [v3.5 发布说明与 SHA-256](https://github.com/f246813/praat-zh-cn/releases/tag/v3.5)。
+- [Windows x64 完整包](https://github.com/f246813/praat-zh-cn/releases/download/v3.5/praat-6.4.61-zh-v3.5-windows-x64.zip)：解压后运行 `Praat_zh.exe`，不会覆盖官方原版
+- [源码补丁包](https://github.com/f246813/praat-zh-cn/releases/download/v3.5/praat-6.4.61-zh-v3.5-source-patch.zip)：不含可执行文件或完整官方源码
+- [v3.5 发布说明与 SHA-256](https://github.com/f246813/praat-zh-cn/releases/tag/v3.5)
 
 程序未获签名。请核对完整包内的 `Praat_zh.exe.sha256` 和发布页面列出的压缩包 SHA-256
 
 ## 主要变化
 
-- 英文悬停提示统一为 0.9 秒。
+- 英文悬停提示统一为 0.9 秒
 - 汉化进一步覆盖至各个小窗口和警告
 - 修复并复核此前发现的翻译问题
 
